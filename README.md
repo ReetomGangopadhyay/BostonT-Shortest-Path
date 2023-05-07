@@ -5,7 +5,7 @@
 
 
 ### Project Description:
-The project is written using skills we learned in DS210 to find the shortest path for a Boston Tram (T) ride from one station to another using Dijkstra's algorithm. Every station is defined in the code and is represented as a graph and shows the connections between the stations. It then prompts the user to input the starting and ending stations and computes the shortest path using Dijkstra's algorithm. The output will show a distance in meters and every station you will go through to achieve the shortest possible path when going from one station to another. The distances were gathered using the “Measure distance” feature on google maps where I placed the first marker on the first stop and followed the path of the line to get a distance between the two stops.
+The project is written using skills we learned in DS210 to find the shortest path for a Boston Tram (T) ride from one station to another using Dijkstra's algorithm. Every station is defined in the code and is represented as a graph and shows the connections between the stations. It then prompts the user to input the starting and ending stations and computes the shortest path using Dijkstra's algorithm. The output will show a distance in meters and every station you will go through to achieve the shortest possible path when going from one station to another. The distances were gathered using the “Measure distance” feature on google maps where I placed the first marker on the first stop and followed the path of the line to get a distance between the two stops. The data is contained in the main file.
 
 #### How to Run:
 To run the project, follow the steps below:
